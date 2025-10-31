@@ -5,7 +5,7 @@ junior developer & designer
 ---------------------------
 
 * 🌍  I'm based in Kyrgyzstan | Russia
-* ✉️  You can contact me at [sashabobrovny@gmail.com](mailto:sashabobrovny@gmail.com)
+* ✉️  Off the grid | Reach out here [sashabobrovny@gmail.com](mailto:sashabobrovny@gmail.com)
 * 🧠  I'm learning i'm learning JS & blockbench
 * ⚡  i am ...
 
