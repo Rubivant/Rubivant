@@ -1,15 +1,15 @@
-こんにちは  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rubi
+こんにちは  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)𝑀𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 𝑅𝓊𝒷𝒾
 ============================================================================================================================
 
-junior developer & designer
+𝒿𝓊𝓃𝒾𝑜𝓇 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 & 𝒹𝑒𝓈𝒾𝑔𝓃𝑒𝓇
 ---------------------------
 
-* 🌍  I'm based in Kyrgyzstan | Russia
-* ✉️  Off the grid | Reach out here [sashabobrovny@gmail.com](mailto:sashabobrovny@gmail.com)
-* 🧠  I'm learning i'm learning JS & blockbench
-* ⚡  i am ...
+* 🌍  𝐼'𝓂 𝒷𝒶𝓈𝑒𝒹 𝒾𝓃 𝑅𝓊𝓈𝓈𝒾𝒶𝓃 𝐹𝑒𝒹𝑒𝓇𝒶𝓉𝒾𝑜𝓃
+* ✉️  𝒪𝒻𝒻 𝓉𝒽𝑒 𝑔𝓇𝒾𝒹 | 𝑅𝑒𝒶𝒸𝒽 𝑜𝓊𝓉 𝒽𝑒𝓇𝑒 [sashabobrovny@gmail.com](mailto:sashabobrovny@gmail.com)
+* 🧠  𝒩𝑜𝓌 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒥𝒮 & 𝒷𝓁𝑜𝒸𝓀𝒷𝑒𝓃𝒸𝒽
+* ⚡  𝐼'𝓂 𝓁𝒶𝓏𝓎 𝓂𝒶𝓃
 
-### Skills
+### 𝒮𝓀𝒾𝓁𝓁𝓈
 
 
 <p align="left">
@@ -17,11 +17,11 @@ junior developer & designer
 </p>
 
 
-### Socials
+### 𝒮𝑜𝒸𝒾𝒶𝓁𝓈
 
 <p align="left"> <a href="https://discord.com/users/Rubivant" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Rubivant" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@Rubivant" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### 𝐵𝒶𝒹𝑔𝑒𝓈
 
 <b>My GitHub Stats</b>
 
